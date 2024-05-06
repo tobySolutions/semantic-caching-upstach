@@ -6,6 +6,8 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@upstash/semantic-cache": "^1.0.3",
+    "@upstash/vector": "^1.0.7",
     "elysia": "latest"
   },
   "devDependencies": {
